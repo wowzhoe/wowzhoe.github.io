@@ -1,1 +1,1 @@
-This is demo build for use
+This is demo build for client use
